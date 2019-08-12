@@ -1,0 +1,7 @@
+## Interface: 80100
+## Title: GuildBankClassic
+## Author: dizelok3@gmail.com
+## Version: 1
+
+GuildBankClassic.lua
+

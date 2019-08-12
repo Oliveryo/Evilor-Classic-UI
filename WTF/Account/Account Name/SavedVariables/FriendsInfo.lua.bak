@@ -1,0 +1,3 @@
+
+FriendsInfo_Data = {
+}

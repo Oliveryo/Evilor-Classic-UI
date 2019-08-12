@@ -1,0 +1,2 @@
+
+MapsterDB = nil

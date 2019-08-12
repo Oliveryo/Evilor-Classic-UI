@@ -1,0 +1,12 @@
+
+RingMenu_globalConfig = {
+	["numRings"] = 1,
+}
+RingMenu_ringConfig = {
+	{
+		["firstSlot"] = 13,
+		["radius"] = 100,
+		["numSlots"] = 12,
+		["backdropScale"] = 1.5,
+	}, -- [1]
+}

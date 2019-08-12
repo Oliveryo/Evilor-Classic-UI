@@ -1,0 +1,45 @@
+package-as: BigWigs
+wowi-archive-previous: no
+
+externals:
+    Libs/LibDBIcon-1.0: https://repos.wowace.com/wow/libdbicon-1-0/trunk/LibDBIcon-1.0
+    Libs/LibSharedMedia-3.0: https://repos.wowace.com/wow/libsharedmedia-3-0/trunk/LibSharedMedia-3.0
+    Core/Libs/AceTimer-3.0: https://repos.wowace.com/wow/ace3/trunk/AceTimer-3.0
+    Core/Libs/AceDB-3.0: https://repos.wowace.com/wow/ace3/trunk/AceDB-3.0
+    Core/Libs/LibDualSpec-1.0: https://repos.wowace.com/wow/libdualspec-1-0
+    Core/Libs/LibChatAnims: https://repos.wowace.com/wow/libchatanims/trunk/LibChatAnims
+    Plugins/Libs/LibSink-2.0: https://repos.wowace.com/wow/libsink-2-0/trunk/LibSink-2.0
+    Plugins/Libs/LibCandyBar-3.0: https://repos.wowace.com/wow/libcandybar-3-0/trunk/LibCandyBar-3.0
+    Options/Libs/AceGUI-3.0: https://repos.wowace.com/wow/ace3/trunk/AceGUI-3.0
+    Options/Libs/AceConfigDialog-3.0: https://repos.wowace.com/wow/ace3/trunk/AceConfig-3.0/AceConfigDialog-3.0
+    Options/Libs/AceConfigRegistry-3.0: https://repos.wowace.com/wow/ace3/trunk/AceConfig-3.0/AceConfigRegistry-3.0
+    Options/Libs/AceDBOptions-3.0: https://repos.wowace.com/wow/ace3/trunk/AceDBOptions-3.0
+    Options/Libs/LibDDI-1.0: https://repos.wowace.com/wow/libddi-1-0/trunk
+
+move-folders:
+    BigWigs/Core: BigWigs_Core
+    BigWigs/Options: BigWigs_Options
+    BigWigs/Plugins: BigWigs_Plugins
+    BigWigs/Azeroth: BigWigs_Azeroth
+    BigWigs/Uldir: BigWigs_Uldir
+    BigWigs/BattleOfDazaralor: BigWigs_BattleOfDazaralor
+    BigWigs/CrucibleOfStorms: BigWigs_CrucibleOfStorms
+    BigWigs/EternalPalace: BigWigs_EternalPalace
+
+ignore:
+  - .luacheckrc
+  - .travis.yml
+  - gen_option_values.lua
+  - ldoc.ltp
+  - ISSUE_TEMPLATE.md
+  - README.md
+  - Media/Sounds/Long.wav
+  - Media/Sounds/Alarm.wav
+  - Media/Sounds/Alert.wav
+  - Media/Sounds/VictoryClassic.wav
+  - Media/Sounds/Victory.wav
+  - Media/Sounds/VictoryLong.wav
+  - Media/Sounds/Info.mp3
+  - Media/Sounds/Amy/countdown.wav
+  - Media/Sounds/David/countdown.wav
+  - Media/Sounds/Jim/countdown.wav

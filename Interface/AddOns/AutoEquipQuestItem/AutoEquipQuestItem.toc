@@ -1,0 +1,14 @@
+## Interface: 40000
+## X-Curse-Packaged-Version: v1.2.4
+## X-Curse-Project-Name: AutoEquipQuestItem
+## X-Curse-Project-ID: autoequipquestitem
+## X-Curse-Repository-ID: wow/autoequipquestitem/mainline
+
+## Title: AutoEquipQuestItem
+## Notes: Adds a button to the quest completion interface which allows you to auto equips selected quest Item after completion (Original idea by: Detrel)
+## Author: Yssaril
+## Version: v1.2.4
+
+widgets\widgets.xml
+
+Core.lua

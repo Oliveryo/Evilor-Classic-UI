@@ -1,0 +1,237 @@
+
+QuestieConfig = {
+	["char"] = {
+		["Evilor - Thandol Span"] = {
+			["journey"] = {
+				{
+					["Note"] = "Ta den",
+					["Title"] = "Quest 1",
+					["Timestamp"] = 1565527588,
+					["Event"] = "Note",
+					["Party"] = {
+					},
+				}, -- [1]
+				{
+					["Timestamp"] = 1565528414,
+					["Party"] = {
+					},
+					["Event"] = "Level",
+					["NewLevel"] = 3,
+				}, -- [2]
+				{
+					["Party"] = {
+					},
+					["Timestamp"] = 1565530770,
+					["Event"] = "Level",
+					["NewLevel"] = 4,
+				}, -- [3]
+				{
+					["Party"] = {
+					},
+					["Timestamp"] = 1565531379,
+					["Quest"] = 179,
+					["Level"] = 4,
+					["Event"] = "Quest",
+					["SubType"] = "Complete",
+				}, -- [4]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Accept",
+					["Level"] = 4,
+					["Quest"] = 3109,
+					["Timestamp"] = 1565533230,
+				}, -- [5]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Accept",
+					["Level"] = 4,
+					["Quest"] = 233,
+					["Timestamp"] = 1565533336,
+				}, -- [6]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Accept",
+					["Level"] = 4,
+					["Quest"] = 170,
+					["Timestamp"] = 1565533809,
+				}, -- [7]
+				{
+					["Party"] = {
+					},
+					["SubType"] = "Complete",
+					["Event"] = "Quest",
+					["Timestamp"] = 1565538498,
+					["Quest"] = 170,
+					["Level"] = 4,
+				}, -- [8]
+				{
+					["Timestamp"] = 1565538498,
+					["Party"] = {
+					},
+					["Event"] = "Level",
+					["NewLevel"] = 5,
+				}, -- [9]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Complete",
+					["Level"] = 5,
+					["Quest"] = 3109,
+					["Timestamp"] = 1565559687,
+				}, -- [10]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Accept",
+					["Level"] = 5,
+					["Quest"] = 3361,
+					["Timestamp"] = 1565559693,
+				}, -- [11]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Complete",
+					["Level"] = 5,
+					["Quest"] = 233,
+					["Timestamp"] = 1565559817,
+				}, -- [12]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Accept",
+					["Level"] = 5,
+					["Quest"] = 234,
+					["Timestamp"] = 1565559818,
+				}, -- [13]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Accept",
+					["Level"] = 5,
+					["Quest"] = 183,
+					["Timestamp"] = 1565559821,
+				}, -- [14]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Complete",
+					["Level"] = 5,
+					["Quest"] = 183,
+					["Timestamp"] = 1565560287,
+				}, -- [15]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Complete",
+					["Level"] = 5,
+					["Quest"] = 234,
+					["Timestamp"] = 1565560329,
+				}, -- [16]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Accept",
+					["Level"] = 5,
+					["Quest"] = 182,
+					["Timestamp"] = 1565560329,
+				}, -- [17]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Accept",
+					["Level"] = 5,
+					["Quest"] = 3364,
+					["Timestamp"] = 1565560333,
+				}, -- [18]
+				{
+					["Timestamp"] = 1565560385,
+					["Party"] = {
+					},
+					["Event"] = "Level",
+					["NewLevel"] = 6,
+				}, -- [19]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Complete",
+					["Level"] = 6,
+					["Quest"] = 3364,
+					["Timestamp"] = 1565560542,
+				}, -- [20]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Accept",
+					["Level"] = 6,
+					["Quest"] = 3365,
+					["Timestamp"] = 1565560543,
+				}, -- [21]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Complete",
+					["Level"] = 6,
+					["Quest"] = 3365,
+					["Timestamp"] = 1565560642,
+				}, -- [22]
+				{
+					["Party"] = {
+					},
+					["Timestamp"] = 1565563878,
+					["Quest"] = 2160,
+					["Level"] = 6,
+					["Event"] = "Quest",
+					["SubType"] = "Accept",
+				}, -- [23]
+				{
+					["Party"] = {
+					},
+					["Timestamp"] = 1565573043,
+					["Quest"] = 2160,
+					["Level"] = 6,
+					["Event"] = "Quest",
+					["SubType"] = "Complete",
+				}, -- [24]
+			},
+			["complete"] = {
+				[183] = true,
+				[170] = true,
+				[3364] = true,
+				[179] = true,
+				[3365] = true,
+				[233] = true,
+				[234] = true,
+				[2160] = true,
+				[3109] = true,
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Evilor - Thandol Span"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["minimap"] = {
+				["minimapPos"] = 28.7261066593238,
+			},
+		},
+	},
+}

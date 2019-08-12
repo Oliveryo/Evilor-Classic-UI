@@ -1,0 +1,12 @@
+tag v1.2.4
+d07b47aec8c0424052116608071067f356437af8
+Yssaril <N/A>
+2011-02-02 23:28:05 -0600
+
+Tagging as v1.2.4
+
+
+--------------------
+
+Yssaril:
+	- after combat bug fix (ticket 6)

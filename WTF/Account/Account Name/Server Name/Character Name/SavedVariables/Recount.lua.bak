@@ -1,0 +1,5327 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Evilor"] = {
+			["GUID"] = "Player-4442-000827D2",
+			["LastEventHealth"] = {
+				147, -- [1]
+				145, -- [2]
+				145, -- [3]
+				145, -- [4]
+				153, -- [5]
+				152, -- [6]
+				152, -- [7]
+				152, -- [8]
+				152, -- [9]
+				151, -- [10]
+				150, -- [11]
+				150, -- [12]
+				149, -- [13]
+				149, -- [14]
+				148, -- [15]
+				148, -- [16]
+				153, -- [17]
+				153, -- [18]
+				153, -- [19]
+				153, -- [20]
+				152, -- [21]
+				152, -- [22]
+				152, -- [23]
+				152, -- [24]
+				152, -- [25]
+				152, -- [26]
+				152, -- [27]
+				153, -- [28]
+				153, -- [29]
+				151, -- [30]
+				151, -- [31]
+				150, -- [32]
+				150, -- [33]
+				150, -- [34]
+				149, -- [35]
+				149, -- [36]
+				148, -- [37]
+				153, -- [38]
+				153, -- [39]
+				153, -- [40]
+				153, -- [41]
+				151, -- [42]
+				151, -- [43]
+				151, -- [44]
+				151, -- [45]
+				149, -- [46]
+				149, -- [47]
+				147, -- [48]
+				147, -- [49]
+				147, -- [50]
+			},
+			["LastAttackedBy"] = "Burly Rockjaw Trogg",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"DAMAGE", -- [40]
+				"DAMAGE", -- [41]
+				"DAMAGE", -- [42]
+				"DAMAGE", -- [43]
+				"DAMAGE", -- [44]
+				"DAMAGE", -- [45]
+				"DAMAGE", -- [46]
+				"DAMAGE", -- [47]
+				"DAMAGE", -- [48]
+				"DAMAGE", -- [49]
+				"DAMAGE", -- [50]
+			},
+			["TimeWindows"] = {
+				["TimeDamage"] = {
+					977.48, -- [1]
+				},
+				["Damage"] = {
+					7451, -- [1]
+				},
+				["DamageTaken"] = {
+					662, -- [1]
+				},
+				["ActiveTime"] = {
+					977.48, -- [1]
+				},
+			},
+			["enClass"] = "ROGUE",
+			["unit"] = "Evilor",
+			["level"] = 1,
+			["LastDamageAbility"] = "Melee",
+			["LastFightIn"] = 143,
+			["LastActive"] = 248527.326,
+			["type"] = "Self",
+			["FightsSaved"] = 5,
+			["LastEventHealthMax"] = {
+				153, -- [1]
+				153, -- [2]
+				153, -- [3]
+				153, -- [4]
+				153, -- [5]
+				153, -- [6]
+				153, -- [7]
+				153, -- [8]
+				153, -- [9]
+				153, -- [10]
+				153, -- [11]
+				153, -- [12]
+				153, -- [13]
+				153, -- [14]
+				153, -- [15]
+				153, -- [16]
+				153, -- [17]
+				153, -- [18]
+				153, -- [19]
+				153, -- [20]
+				153, -- [21]
+				153, -- [22]
+				153, -- [23]
+				153, -- [24]
+				153, -- [25]
+				153, -- [26]
+				153, -- [27]
+				153, -- [28]
+				153, -- [29]
+				153, -- [30]
+				153, -- [31]
+				153, -- [32]
+				153, -- [33]
+				153, -- [34]
+				153, -- [35]
+				153, -- [36]
+				153, -- [37]
+				153, -- [38]
+				153, -- [39]
+				153, -- [40]
+				153, -- [41]
+				153, -- [42]
+				153, -- [43]
+				153, -- [44]
+				153, -- [45]
+				153, -- [46]
+				153, -- [47]
+				153, -- [48]
+				153, -- [49]
+				153, -- [50]
+			},
+			["TimeLast"] = {
+				["ActiveTime"] = 248527.326,
+				["TimeDamage"] = 248527.326,
+				["OVERALL"] = 248527.326,
+				["DamageTaken"] = 248527.326,
+				["Damage"] = 248527.326,
+			},
+			["Owner"] = false,
+			["Name"] = "Evilor",
+			["NextEventNum"] = 5,
+			["LastDamageTime"] = 248527.914,
+			["LastEvents"] = {
+				"Evilor Melee Burly Rockjaw Trogg Hit -6 (Physical)", -- [1]
+				"Evilor Sinister Strike Burly Rockjaw Trogg Hit -9 (Physical)", -- [2]
+				"Evilor Melee Burly Rockjaw Trogg Hit -5 (Physical)", -- [3]
+				"Burly Rockjaw Trogg Melee Evilor Hit -2 (Physical)", -- [4]
+				"Ragged Young Wolf Melee Evilor Hit -1 (Physical)", -- [5]
+				"Evilor Melee Ragged Young Wolf Hit -6 (Physical)", -- [6]
+				"Ragged Young Wolf Melee Evilor Miss (1)", -- [7]
+				"Evilor Melee Ragged Young Wolf Hit -5 (Physical)", -- [8]
+				"Ragged Young Wolf Melee Evilor Hit -1 (Physical)", -- [9]
+				"Ragged Young Wolf Melee Evilor Hit -1 (Physical)", -- [10]
+				"Evilor Melee Ragged Young Wolf Hit -6 (Physical)", -- [11]
+				"Ragged Young Wolf Melee Evilor Hit -1 (Physical)", -- [12]
+				"Evilor Melee Ragged Young Wolf Hit -6 (Physical)", -- [13]
+				"Ragged Young Wolf Melee Evilor Hit -1 (Physical)", -- [14]
+				"Evilor Melee Ragged Young Wolf Hit -6 (Physical)", -- [15]
+				"Evilor Sinister Strike Ragged Young Wolf Hit -9 (Physical)", -- [16]
+				"Evilor Melee Ragged Young Wolf Hit -6 (Physical)", -- [17]
+				"Ragged Young Wolf Melee Evilor Miss (1)", -- [18]
+				"Evilor Melee Ragged Young Wolf Crit -12 (Physical)", -- [19]
+				"Ragged Young Wolf Melee Evilor Hit -1 (Physical)", -- [20]
+				"Evilor Melee Ragged Young Wolf Hit -6 (Physical)", -- [21]
+				"Ragged Young Wolf Melee Evilor Dodge (1)", -- [22]
+				"Evilor Melee Ragged Young Wolf Hit -6 (Physical)", -- [23]
+				"Ragged Young Wolf Melee Evilor Miss (1)", -- [24]
+				"Evilor Melee Ragged Young Wolf Hit -6 (Physical)", -- [25]
+				"Evilor Melee Ragged Young Wolf Hit -6 (Physical)", -- [26]
+				"Ragged Young Wolf Melee Evilor Hit -2 (Physical)", -- [27]
+				"Evilor Melee Ragged Young Wolf Hit -6 (Physical)", -- [28]
+				"Ragged Young Wolf Melee Evilor Hit -2 (Physical)", -- [29]
+				"Evilor Melee Ragged Young Wolf Hit -7 (Physical)", -- [30]
+				"Ragged Young Wolf Melee Evilor Hit -1 (Physical)", -- [31]
+				"Evilor Melee Ragged Young Wolf Crit -13 (Physical)", -- [32]
+				"Ragged Young Wolf Melee Evilor Hit -1 (Physical)", -- [33]
+				"Evilor Melee Ragged Young Wolf Hit -7 (Physical)", -- [34]
+				"Ragged Young Wolf Melee Evilor Hit -1 (Physical)", -- [35]
+				"Evilor Melee Ragged Young Wolf Hit -6 (Physical)", -- [36]
+				"Evilor Sinister Strike Ragged Young Wolf Hit -9 (Physical)", -- [37]
+				"Evilor Melee Ragged Young Wolf Hit -6 (Physical)", -- [38]
+				"Evilor Melee Ragged Young Wolf Hit -6 (Physical)", -- [39]
+				"Evilor Melee Burly Rockjaw Trogg Hit -6 (Physical)", -- [40]
+				"Burly Rockjaw Trogg Melee Evilor Hit -2 (Physical)", -- [41]
+				"Evilor Melee Burly Rockjaw Trogg Hit -7 (Physical)", -- [42]
+				"Burly Rockjaw Trogg Melee Evilor Miss (1)", -- [43]
+				"Evilor Melee Burly Rockjaw Trogg Hit -6 (Physical)", -- [44]
+				"Burly Rockjaw Trogg Melee Evilor Hit -2 (Physical)", -- [45]
+				"Evilor Melee Burly Rockjaw Trogg Hit -6 (Physical)", -- [46]
+				"Burly Rockjaw Trogg Melee Evilor Hit -2 (Physical)", -- [47]
+				"Evilor Melee Burly Rockjaw Trogg Hit -5 (Physical)", -- [48]
+				"Burly Rockjaw Trogg Melee Evilor Hit -2 (Physical)", -- [49]
+				"Evilor Sinister Strike Burly Rockjaw Trogg Hit -9 (Physical)", -- [50]
+			},
+			["LastEventIncoming"] = {
+				false, -- [1]
+				false, -- [2]
+				false, -- [3]
+				true, -- [4]
+				true, -- [5]
+				false, -- [6]
+				true, -- [7]
+				false, -- [8]
+				true, -- [9]
+				true, -- [10]
+				false, -- [11]
+				true, -- [12]
+				false, -- [13]
+				true, -- [14]
+				false, -- [15]
+				false, -- [16]
+				false, -- [17]
+				true, -- [18]
+				false, -- [19]
+				true, -- [20]
+				false, -- [21]
+				true, -- [22]
+				false, -- [23]
+				true, -- [24]
+				false, -- [25]
+				false, -- [26]
+				true, -- [27]
+				false, -- [28]
+				true, -- [29]
+				false, -- [30]
+				true, -- [31]
+				false, -- [32]
+				true, -- [33]
+				false, -- [34]
+				true, -- [35]
+				false, -- [36]
+				false, -- [37]
+				false, -- [38]
+				false, -- [39]
+				false, -- [40]
+				true, -- [41]
+				false, -- [42]
+				true, -- [43]
+				false, -- [44]
+				true, -- [45]
+				false, -- [46]
+				true, -- [47]
+				false, -- [48]
+				true, -- [49]
+				false, -- [50]
+			},
+			["LastEventTimes"] = {
+				248526.302, -- [1]
+				248527.345, -- [2]
+				248527.914, -- [3]
+				248528.071, -- [4]
+				248163.46, -- [5]
+				248164.253, -- [6]
+				248165.487, -- [7]
+				248166.879, -- [8]
+				248167.491, -- [9]
+				248170.017, -- [10]
+				248170.91, -- [11]
+				248172, -- [12]
+				248173.079, -- [13]
+				248174.08, -- [14]
+				248175.15, -- [15]
+				248175.254, -- [16]
+				248431.182, -- [17]
+				248431.39, -- [18]
+				248432.694, -- [19]
+				248433.379, -- [20]
+				248434.266, -- [21]
+				248435.382, -- [22]
+				248435.841, -- [23]
+				248437.405, -- [24]
+				248437.536, -- [25]
+				248439.118, -- [26]
+				248439.422, -- [27]
+				248458.377, -- [28]
+				248458.488, -- [29]
+				248460.019, -- [30]
+				248460.575, -- [31]
+				248461.556, -- [32]
+				248462.533, -- [33]
+				248463.256, -- [34]
+				248464.542, -- [35]
+				248464.76, -- [36]
+				248466.23, -- [37]
+				248508.374, -- [38]
+				248509.971, -- [39]
+				248517.788, -- [40]
+				248518.058, -- [41]
+				248519.849, -- [42]
+				248520.079, -- [43]
+				248521.454, -- [44]
+				248522.062, -- [45]
+				248523.099, -- [46]
+				248524.037, -- [47]
+				248524.705, -- [48]
+				248526.091, -- [49]
+				248526.091, -- [50]
+			},
+			["Fights"] = {
+				["Fight1"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 10,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 6,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["DOT_Time"] = 0,
+					["ManaGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 10,
+					},
+					["HOTs"] = {
+					},
+					["ElementTakenBlock"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["FDamagedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RageGain"] = 0,
+					["ElementDone"] = {
+						["Melee"] = 41,
+						["Physical"] = 18,
+					},
+					["ManaGainedFrom"] = {
+					},
+					["DamagedWho"] = {
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rabbit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Throw"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 41,
+								},
+								["Sinister Strike"] = {
+									["count"] = 18,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 59,
+						},
+					},
+					["RageGained"] = {
+					},
+					["WhoDamaged"] = {
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 10,
+								},
+							},
+							["amount"] = 10,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["OverHeals"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+					},
+					["CCBreak"] = 0,
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ActiveTime"] = 10.71,
+					["Overhealing"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["InterruptData"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rabbit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Throw"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 8.28,
+								},
+								["Sinister Strike"] = {
+									["count"] = 2.43,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 10.71,
+						},
+					},
+					["Heals"] = {
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["Healing"] = 0,
+					["RunicPowerGained"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["Attacks"] = {
+						["Eviscerate"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 7,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 41,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 41,
+						},
+						["Throw"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Sinister Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 9,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 18,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 18,
+						},
+						["Backstab"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 7,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["TimeDamage"] = 10.71,
+					["TimeDamaging"] = {
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rabbit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Throw"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 8.28,
+								},
+								["Sinister Strike"] = {
+									["count"] = 2.43,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 10.71,
+						},
+					},
+					["RunicPowerGain"] = 0,
+					["Damage"] = 59,
+					["DispelledWho"] = {
+					},
+				},
+				["Fight5"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 5,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 1,
+								},
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 7,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["Damage"] = 45,
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 5,
+					},
+					["DOT_Time"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 6,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["FAttacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["ElementDone"] = {
+						["Melee"] = 36,
+						["Physical"] = 9,
+					},
+					["DamagedWho"] = {
+						["Rabbit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 36,
+								},
+								["Sinister Strike"] = {
+									["count"] = 9,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 45,
+						},
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Timber Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Small Crag Boar"] = {
+							["Details"] = {
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["WhoDamaged"] = {
+						["Ragged Timber Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Small Crag Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["HealedWho"] = {
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 7,
+						},
+					},
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Rabbit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 9,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0.1,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 9.1,
+						},
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Timber Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Small Crag Boar"] = {
+							["Details"] = {
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["ActiveTime"] = 9.1,
+					["EnergyGained"] = {
+					},
+					["EnergyGain"] = 0,
+					["Healing"] = 0,
+					["Dispelled"] = 0,
+					["RageGained"] = {
+					},
+					["Attacks"] = {
+						["Eviscerate"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 7,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 36,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 36,
+						},
+						["Sinister Strike"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 9,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 9,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 9,
+						},
+						["Backstab"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 9.1,
+					["TimeDamaging"] = {
+						["Rabbit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 9,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0.1,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 9.1,
+						},
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Timber Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Small Crag Boar"] = {
+							["Details"] = {
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Small Crag Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDamaged"] = {
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeSpent"] = {
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Small Crag Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DamageTaken"] = 0,
+					["TimeDamage"] = 0,
+					["ElementDone"] = {
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 0,
+					["TimeDamaging"] = {
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Small Crag Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTaken"] = {
+						["Melee"] = 0,
+					},
+					["Attacks"] = {
+						["Eviscerate"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Sinister Strike"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Backstab"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["Damage"] = 0,
+				},
+				["OverallData"] = {
+					["ElementDoneBlock"] = {
+						["Melee"] = 3,
+						["Physical"] = 3,
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 383,
+								},
+								["Dodge"] = {
+									["count"] = 76,
+								},
+								["Miss"] = {
+									["count"] = 17,
+								},
+							},
+							["amount"] = 476,
+						},
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 476,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 476,
+						},
+					},
+					["DamagedWho"] = {
+						["Rabbit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 112,
+								},
+							},
+							["amount"] = 112,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 134,
+								},
+								["Melee"] = {
+									["count"] = 1530,
+								},
+								["Throw"] = {
+									["count"] = 6,
+								},
+								["Sinister Strike"] = {
+									["count"] = 1082,
+								},
+								["Backstab"] = {
+									["count"] = 551,
+								},
+							},
+							["amount"] = 3303,
+						},
+						["Small Crag Boar"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 14,
+								},
+								["Melee"] = {
+									["count"] = 131,
+								},
+								["Sinister Strike"] = {
+									["count"] = 77,
+								},
+								["Backstab"] = {
+									["count"] = 69,
+								},
+							},
+							["amount"] = 291,
+						},
+						["Frostmane Troll Whelp"] = {
+							["Details"] = {
+								["Sinister Strike"] = {
+									["count"] = 11,
+								},
+								["Melee"] = {
+									["count"] = 84,
+								},
+								["Backstab"] = {
+									["count"] = 50,
+								},
+							},
+							["amount"] = 145,
+						},
+						["Ragged Timber Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 139,
+								},
+								["Sinister Strike"] = {
+									["count"] = 87,
+								},
+								["Backstab"] = {
+									["count"] = 74,
+								},
+							},
+							["amount"] = 300,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 147,
+								},
+								["Melee"] = {
+									["count"] = 777,
+								},
+								["Sinister Strike"] = {
+									["count"] = 558,
+								},
+								["Backstab"] = {
+									["count"] = 242,
+								},
+							},
+							["amount"] = 1724,
+						},
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 84,
+								},
+								["Melee"] = {
+									["count"] = 717,
+								},
+								["Sinister Strike"] = {
+									["count"] = 581,
+								},
+								["Backstab"] = {
+									["count"] = 194,
+								},
+							},
+							["amount"] = 1576,
+						},
+					},
+					["WhoDamaged"] = {
+						["Ragged Timber Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 28,
+								},
+							},
+							["amount"] = 28,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 246,
+								},
+							},
+							["amount"] = 246,
+						},
+						["Small Crag Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 44,
+								},
+							},
+							["amount"] = 44,
+						},
+						["Frostmane Troll Whelp"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 39,
+								},
+							},
+							["amount"] = 39,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 178,
+								},
+							},
+							["amount"] = 178,
+						},
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 127,
+								},
+							},
+							["amount"] = 127,
+						},
+					},
+					["TimeSpent"] = {
+						["Rabbit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 27,
+								},
+							},
+							["amount"] = 27,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 8.68,
+								},
+								["Melee"] = {
+									["count"] = 341.62,
+								},
+								["Throw"] = {
+									["count"] = 1.5,
+								},
+								["Sinister Strike"] = {
+									["count"] = 82.36,
+								},
+								["Backstab"] = {
+									["count"] = 7.38,
+								},
+							},
+							["amount"] = 441.54,
+						},
+						["Small Crag Boar"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0.9,
+								},
+								["Melee"] = {
+									["count"] = 27.18,
+								},
+								["Sinister Strike"] = {
+									["count"] = 8.46,
+								},
+								["Backstab"] = {
+									["count"] = 1.03,
+								},
+							},
+							["amount"] = 37.57,
+						},
+						["Frostmane Troll Whelp"] = {
+							["Details"] = {
+								["Sinister Strike"] = {
+									["count"] = 0.97,
+								},
+								["Melee"] = {
+									["count"] = 16.18,
+								},
+								["Backstab"] = {
+									["count"] = 0.61,
+								},
+							},
+							["amount"] = 17.76,
+						},
+						["Ragged Timber Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 29.73,
+								},
+								["Sinister Strike"] = {
+									["count"] = 6.1,
+								},
+								["Backstab"] = {
+									["count"] = 0.83,
+								},
+							},
+							["amount"] = 36.66,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 6.16,
+								},
+								["Melee"] = {
+									["count"] = 165.14,
+								},
+								["Sinister Strike"] = {
+									["count"] = 46.21,
+								},
+								["Backstab"] = {
+									["count"] = 3.15,
+								},
+							},
+							["amount"] = 220.66,
+						},
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 3.67,
+								},
+								["Melee"] = {
+									["count"] = 143.93,
+								},
+								["Sinister Strike"] = {
+									["count"] = 44.77,
+								},
+								["Backstab"] = {
+									["count"] = 3.92,
+								},
+							},
+							["amount"] = 196.29,
+						},
+					},
+					["DamageTaken"] = 662,
+					["TimeDamage"] = 977.48,
+					["ElementDone"] = {
+						["Melee"] = 3490,
+						["Physical"] = 3961,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 476,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 476,
+							["amount"] = 0,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["count"] = 5,
+								},
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 534,
+								},
+								["Block"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 54,
+								},
+								["Dodge"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 597,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 2,
+								},
+								["Block"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 28,
+								},
+								["Hit"] = {
+									["count"] = 302,
+								},
+							},
+							["amount"] = 333,
+						},
+					},
+					["ActiveTime"] = 977.48,
+					["TimeDamaging"] = {
+						["Rabbit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 27,
+								},
+							},
+							["amount"] = 27,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 8.68,
+								},
+								["Melee"] = {
+									["count"] = 341.62,
+								},
+								["Throw"] = {
+									["count"] = 1.5,
+								},
+								["Sinister Strike"] = {
+									["count"] = 82.36,
+								},
+								["Backstab"] = {
+									["count"] = 7.38,
+								},
+							},
+							["amount"] = 441.54,
+						},
+						["Small Crag Boar"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0.9,
+								},
+								["Melee"] = {
+									["count"] = 27.18,
+								},
+								["Sinister Strike"] = {
+									["count"] = 8.46,
+								},
+								["Backstab"] = {
+									["count"] = 1.03,
+								},
+							},
+							["amount"] = 37.57,
+						},
+						["Frostmane Troll Whelp"] = {
+							["Details"] = {
+								["Sinister Strike"] = {
+									["count"] = 0.97,
+								},
+								["Melee"] = {
+									["count"] = 16.18,
+								},
+								["Backstab"] = {
+									["count"] = 0.61,
+								},
+							},
+							["amount"] = 17.76,
+						},
+						["Ragged Timber Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 29.73,
+								},
+								["Sinister Strike"] = {
+									["count"] = 6.1,
+								},
+								["Backstab"] = {
+									["count"] = 0.83,
+								},
+							},
+							["amount"] = 36.66,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 6.16,
+								},
+								["Melee"] = {
+									["count"] = 165.14,
+								},
+								["Sinister Strike"] = {
+									["count"] = 46.21,
+								},
+								["Backstab"] = {
+									["count"] = 3.15,
+								},
+							},
+							["amount"] = 220.66,
+						},
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 3.67,
+								},
+								["Melee"] = {
+									["count"] = 143.93,
+								},
+								["Sinister Strike"] = {
+									["count"] = 44.77,
+								},
+								["Backstab"] = {
+									["count"] = 3.92,
+								},
+							},
+							["amount"] = 196.29,
+						},
+					},
+					["ElementTaken"] = {
+						["Melee"] = 662,
+					},
+					["Attacks"] = {
+						["Eviscerate"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 33,
+									["min"] = 28,
+									["count"] = 3,
+									["amount"] = 94,
+								},
+								["Hit"] = {
+									["max"] = 21,
+									["min"] = 10,
+									["count"] = 19,
+									["amount"] = 285,
+								},
+							},
+							["count"] = 22,
+							["amount"] = 379,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 7,
+									["min"] = 4,
+									["count"] = 5,
+									["amount"] = 25,
+								},
+								["Miss"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Hit (Blocked)"] = {
+									["max"] = 5,
+									["min"] = 5,
+									["count"] = 1,
+									["amount"] = 5,
+								},
+								["Hit"] = {
+									["max"] = 8,
+									["min"] = 4,
+									["count"] = 533,
+									["amount"] = 2875,
+								},
+								["Crit"] = {
+									["max"] = 16,
+									["min"] = 8,
+									["count"] = 54,
+									["amount"] = 585,
+								},
+								["Dodge"] = {
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 596,
+							["amount"] = 3490,
+						},
+						["Throw"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 6,
+									["min"] = 6,
+									["count"] = 1,
+									["amount"] = 6,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 6,
+						},
+						["Sinister Strike"] = {
+							["Details"] = {
+								["Hit (Blocked)"] = {
+									["max"] = 4,
+									["min"] = 4,
+									["count"] = 1,
+									["amount"] = 4,
+								},
+								["Dodge"] = {
+									["count"] = 2,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 22,
+									["min"] = 15,
+									["count"] = 22,
+									["amount"] = 381,
+								},
+								["Hit"] = {
+									["max"] = 11,
+									["min"] = 6,
+									["count"] = 238,
+									["amount"] = 2011,
+								},
+							},
+							["count"] = 263,
+							["amount"] = 2396,
+						},
+						["Backstab"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 47,
+									["min"] = 45,
+									["count"] = 3,
+									["amount"] = 137,
+								},
+								["Hit"] = {
+									["max"] = 27,
+									["min"] = 22,
+									["count"] = 43,
+									["amount"] = 1043,
+								},
+							},
+							["count"] = 46,
+							["amount"] = 1180,
+						},
+					},
+					["Damage"] = 7451,
+				},
+				["Fight4"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 3,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+								["Miss"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 5,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["DOT_Time"] = 0,
+					["ManaGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 3,
+					},
+					["HOTs"] = {
+					},
+					["ElementTakenBlock"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["FDamagedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RageGain"] = 0,
+					["ElementDone"] = {
+						["Melee"] = 42,
+						["Physical"] = 0,
+					},
+					["ManaGainedFrom"] = {
+					},
+					["DamagedWho"] = {
+						["Ragged Timber Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 42,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 42,
+						},
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Small Crag Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Frostmane Troll Whelp"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RageGained"] = {
+					},
+					["WhoDamaged"] = {
+						["Ragged Timber Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Small Crag Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Frostmane Troll Whelp"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["OverHeals"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+						["Physical"] = 0,
+					},
+					["TimeHealing"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 5,
+						},
+					},
+					["CCBreak"] = 0,
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ActiveTime"] = 9,
+					["Overhealing"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["InterruptData"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+						["Ragged Timber Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 9,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 9,
+						},
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Small Crag Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Frostmane Troll Whelp"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Heals"] = {
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["Healing"] = 0,
+					["RunicPowerGained"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["Attacks"] = {
+						["Eviscerate"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 12,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 12,
+								},
+								["Hit"] = {
+									["max"] = 6,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 30,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 42,
+						},
+						["Sinister Strike"] = {
+							["Details"] = {
+								["Hit (Blocked)"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Backstab"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 6,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Block"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeDamage"] = 9,
+					["TimeDamaging"] = {
+						["Ragged Timber Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 9,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 9,
+						},
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Small Crag Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Frostmane Troll Whelp"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGain"] = 0,
+					["Damage"] = 42,
+					["DispelledWho"] = {
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 10,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 6,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["DOT_Time"] = 0,
+					["ManaGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 10,
+					},
+					["HOTs"] = {
+					},
+					["ElementTakenBlock"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["FDamagedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RageGain"] = 0,
+					["ElementDone"] = {
+						["Melee"] = 41,
+						["Physical"] = 18,
+					},
+					["ManaGainedFrom"] = {
+					},
+					["DamagedWho"] = {
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rabbit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Throw"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 41,
+								},
+								["Sinister Strike"] = {
+									["count"] = 18,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 59,
+						},
+					},
+					["RageGained"] = {
+					},
+					["WhoDamaged"] = {
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 10,
+								},
+							},
+							["amount"] = 10,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["OverHeals"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+					},
+					["CCBreak"] = 0,
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ActiveTime"] = 10.71,
+					["Overhealing"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["InterruptData"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rabbit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Throw"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 8.28,
+								},
+								["Sinister Strike"] = {
+									["count"] = 2.43,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 10.71,
+						},
+					},
+					["Heals"] = {
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["Healing"] = 0,
+					["RunicPowerGained"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["Attacks"] = {
+						["Eviscerate"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 7,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 41,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 41,
+						},
+						["Throw"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Sinister Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 9,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 18,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 18,
+						},
+						["Backstab"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 7,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["TimeDamage"] = 10.71,
+					["TimeDamaging"] = {
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rabbit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Throw"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 8.28,
+								},
+								["Sinister Strike"] = {
+									["count"] = 2.43,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 10.71,
+						},
+					},
+					["RunicPowerGain"] = 0,
+					["Damage"] = 59,
+					["DispelledWho"] = {
+					},
+				},
+				["Fight2"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["DOT_Time"] = 0,
+					["ManaGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 0,
+					},
+					["HOTs"] = {
+					},
+					["ElementTakenBlock"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["FDamagedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RageGain"] = 0,
+					["ElementDone"] = {
+						["Melee"] = 12,
+						["Physical"] = 0,
+					},
+					["ManaGainedFrom"] = {
+					},
+					["DamagedWho"] = {
+						["Rabbit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 12,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 12,
+						},
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Timber Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RageGained"] = {
+					},
+					["WhoDamaged"] = {
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["OverHeals"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBreak"] = 0,
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ActiveTime"] = 3,
+					["Overhealing"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["InterruptData"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+						["Rabbit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 3,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Timber Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Heals"] = {
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["Healing"] = 0,
+					["RunicPowerGained"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["Attacks"] = {
+						["Eviscerate"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 6,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 12,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 12,
+						},
+						["Sinister Strike"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Backstab"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 2,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeDamage"] = 3,
+					["TimeDamaging"] = {
+						["Rabbit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 3,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Timber Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGain"] = 0,
+					["Damage"] = 12,
+					["DispelledWho"] = {
+					},
+				},
+				["Fight3"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 5,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 4,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["DOT_Time"] = 0,
+					["ManaGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 5,
+					},
+					["HOTs"] = {
+					},
+					["ElementTakenBlock"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["FDamagedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RageGain"] = 0,
+					["ElementDone"] = {
+						["Melee"] = 39,
+						["Physical"] = 9,
+					},
+					["ManaGainedFrom"] = {
+					},
+					["DamagedWho"] = {
+						["Rabbit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 39,
+								},
+								["Sinister Strike"] = {
+									["count"] = 9,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 48,
+						},
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Frostmane Troll Whelp"] = {
+							["Details"] = {
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Small Crag Boar"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RageGained"] = {
+					},
+					["WhoDamaged"] = {
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Frostmane Troll Whelp"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Small Crag Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["OverHeals"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+						["Melee"] = 0,
+					},
+					["TimeHealing"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+					},
+					["CCBreak"] = 0,
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ActiveTime"] = 8.97,
+					["Overhealing"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["InterruptData"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+						["Rabbit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 7.5,
+								},
+								["Sinister Strike"] = {
+									["count"] = 1.47,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 8.97,
+						},
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Frostmane Troll Whelp"] = {
+							["Details"] = {
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Small Crag Boar"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Heals"] = {
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["Healing"] = 0,
+					["RunicPowerGained"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["Attacks"] = {
+						["Eviscerate"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 7,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 26,
+								},
+								["Hit (Blocked)"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 13,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 13,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 39,
+						},
+						["Sinister Strike"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 9,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 9,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 9,
+						},
+						["Backstab"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 4,
+								},
+								["Block"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["TimeDamage"] = 8.97,
+					["TimeDamaging"] = {
+						["Rabbit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 7.5,
+								},
+								["Sinister Strike"] = {
+									["count"] = 1.47,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 8.97,
+						},
+						["Rockjaw Trogg"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Frostmane Troll Whelp"] = {
+							["Details"] = {
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Burly Rockjaw Trogg"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Sinister Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Small Crag Boar"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Backstab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGain"] = 0,
+					["Damage"] = 48,
+					["DispelledWho"] = {
+					},
+				},
+			},
+			["LastDamageTaken"] = 2,
+			["UnitLockout"] = 231752.131,
+			["LastAbility"] = 248485.726,
+		},
+	},
+	["FightNum"] = 144,
+	["CombatTimes"] = {
+		{
+			231752.131, -- [1]
+			231760.13, -- [2]
+			"13:59:27", -- [3]
+			"13:59:34", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [1]
+		{
+			232707.937, -- [1]
+			232713.937, -- [2]
+			"14:15:23", -- [3]
+			"14:15:28", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [2]
+		{
+			232733.937, -- [1]
+			232740.936, -- [2]
+			"14:15:48", -- [3]
+			"14:15:55", -- [4]
+			"Rockjaw Trogg", -- [5]
+		}, -- [3]
+		{
+			232741.937, -- [1]
+			232781.937, -- [2]
+			"14:15:57", -- [3]
+			"14:16:36", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [4]
+		{
+			232823.936, -- [1]
+			232826.937, -- [2]
+			"14:17:19", -- [3]
+			"14:17:21", -- [4]
+			"Rabbit", -- [5]
+		}, -- [5]
+		{
+			234441.367, -- [1]
+			234445.366, -- [2]
+			"14:44:16", -- [3]
+			"14:44:20", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [6]
+		{
+			234688.366, -- [1]
+			234694.368, -- [2]
+			"14:48:23", -- [3]
+			"14:48:29", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [7]
+		{
+			234697.366, -- [1]
+			234706.366, -- [2]
+			"14:48:32", -- [3]
+			"14:48:41", -- [4]
+			"Rockjaw Trogg", -- [5]
+		}, -- [8]
+		{
+			234715.369, -- [1]
+			234721.368, -- [2]
+			"14:48:50", -- [3]
+			"14:48:56", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [9]
+		{
+			234794.366, -- [1]
+			234810.368, -- [2]
+			"14:50:09", -- [3]
+			"14:50:25", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [10]
+		{
+			234826.369, -- [1]
+			234838.366, -- [2]
+			"14:50:41", -- [3]
+			"14:50:53", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [11]
+		{
+			234922.368, -- [1]
+			234933.366, -- [2]
+			"14:52:17", -- [3]
+			"14:52:28", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [12]
+		{
+			235308.736, -- [1]
+			235325.738, -- [2]
+			"14:58:43", -- [3]
+			"14:59:00", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [13]
+		{
+			235332.737, -- [1]
+			235341.738, -- [2]
+			"14:59:07", -- [3]
+			"14:59:16", -- [4]
+			"Burly Rockjaw Trogg", -- [5]
+		}, -- [14]
+		{
+			235391.737, -- [1]
+			235400.736, -- [2]
+			"15:00:06", -- [3]
+			"15:00:15", -- [4]
+			"Burly Rockjaw Trogg", -- [5]
+		}, -- [15]
+		{
+			235404.738, -- [1]
+			235413.736, -- [2]
+			"15:00:19", -- [3]
+			"15:00:28", -- [4]
+			"Burly Rockjaw Trogg", -- [5]
+		}, -- [16]
+		{
+			235416.741, -- [1]
+			235425.736, -- [2]
+			"15:00:31", -- [3]
+			"15:00:40", -- [4]
+			"Burly Rockjaw Trogg", -- [5]
+		}, -- [17]
+		{
+			235429.737, -- [1]
+			235441.738, -- [2]
+			"15:00:44", -- [3]
+			"15:00:56", -- [4]
+			"Burly Rockjaw Trogg", -- [5]
+		}, -- [18]
+		{
+			235444.738, -- [1]
+			235451.739, -- [2]
+			"15:01:00", -- [3]
+			"15:01:06", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [19]
+		{
+			235456.737, -- [1]
+			235470.738, -- [2]
+			"15:01:11", -- [3]
+			"15:01:25", -- [4]
+			"Small Crag Boar", -- [5]
+		}, -- [20]
+		{
+			235472.735, -- [1]
+			235481.739, -- [2]
+			"15:01:27", -- [3]
+			"15:01:36", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [21]
+		{
+			235571.735, -- [1]
+			235580.74, -- [2]
+			"15:03:06", -- [3]
+			"15:03:15", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [22]
+		{
+			235594.736, -- [1]
+			235605.738, -- [2]
+			"15:03:29", -- [3]
+			"15:03:40", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [23]
+		{
+			236048.738, -- [1]
+			236053.738, -- [2]
+			"15:11:03", -- [3]
+			"15:11:08", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [24]
+		{
+			236238.74, -- [1]
+			236243.74, -- [2]
+			"15:14:13", -- [3]
+			"15:14:18", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [25]
+		{
+			236246.737, -- [1]
+			236256.736, -- [2]
+			"15:14:21", -- [3]
+			"15:14:31", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [26]
+		{
+			236261.739, -- [1]
+			236268.738, -- [2]
+			"15:14:36", -- [3]
+			"15:14:43", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [27]
+		{
+			236306.736, -- [1]
+			236317.739, -- [2]
+			"15:15:21", -- [3]
+			"15:15:32", -- [4]
+			"Rockjaw Trogg", -- [5]
+		}, -- [28]
+		{
+			236352.738, -- [1]
+			236359.736, -- [2]
+			"15:16:07", -- [3]
+			"15:16:14", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [29]
+		{
+			236363.735, -- [1]
+			236371.739, -- [2]
+			"15:16:18", -- [3]
+			"15:16:26", -- [4]
+			"Rockjaw Trogg", -- [5]
+		}, -- [30]
+		{
+			236374.739, -- [1]
+			236385.736, -- [2]
+			"15:16:29", -- [3]
+			"15:16:40", -- [4]
+			"Rockjaw Trogg", -- [5]
+		}, -- [31]
+		{
+			236533.739, -- [1]
+			236537.737, -- [2]
+			"15:19:09", -- [3]
+			"15:19:12", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [32]
+		{
+			236632.738, -- [1]
+			236647.736, -- [2]
+			"15:20:47", -- [3]
+			"15:21:02", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [33]
+		{
+			236711.736, -- [1]
+			236720.738, -- [2]
+			"15:22:07", -- [3]
+			"15:22:15", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [34]
+		{
+			236724.737, -- [1]
+			236731.736, -- [2]
+			"15:22:20", -- [3]
+			"15:22:26", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [35]
+		{
+			236761.738, -- [1]
+			236769.739, -- [2]
+			"15:22:57", -- [3]
+			"15:23:04", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [36]
+		{
+			236830.739, -- [1]
+			236837.737, -- [2]
+			"15:24:06", -- [3]
+			"15:24:12", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [37]
+		{
+			236837.737, -- [1]
+			236846.736, -- [2]
+			"15:24:12", -- [3]
+			"15:24:21", -- [4]
+			"Rockjaw Trogg", -- [5]
+		}, -- [38]
+		{
+			236910.737, -- [1]
+			236925.738, -- [2]
+			"15:25:25", -- [3]
+			"15:25:40", -- [4]
+			"Ragged Timber Wolf", -- [5]
+		}, -- [39]
+		{
+			236936.739, -- [1]
+			236943.736, -- [2]
+			"15:25:52", -- [3]
+			"15:25:58", -- [4]
+			"Rockjaw Trogg", -- [5]
+		}, -- [40]
+		{
+			236966.736, -- [1]
+			236976.738, -- [2]
+			"15:26:21", -- [3]
+			"15:26:31", -- [4]
+			"Burly Rockjaw Trogg", -- [5]
+		}, -- [41]
+		{
+			236978.736, -- [1]
+			236988.737, -- [2]
+			"15:26:34", -- [3]
+			"15:26:43", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [42]
+		{
+			236992.737, -- [1]
+			236999.737, -- [2]
+			"15:26:47", -- [3]
+			"15:26:54", -- [4]
+			"Rockjaw Trogg", -- [5]
+		}, -- [43]
+		{
+			237003.738, -- [1]
+			237010.738, -- [2]
+			"15:26:58", -- [3]
+			"15:27:05", -- [4]
+			"Rockjaw Trogg", -- [5]
+		}, -- [44]
+		{
+			237728.149, -- [1]
+			237734.15, -- [2]
+			"15:39:02", -- [3]
+			"15:39:08", -- [4]
+			"Rockjaw Trogg", -- [5]
+		}, -- [45]
+		{
+			237738.148, -- [1]
+			237746.147, -- [2]
+			"15:39:12", -- [3]
+			"15:39:20", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [46]
+		{
+			237747.15, -- [1]
+			237758.148, -- [2]
+			"15:39:21", -- [3]
+			"15:39:32", -- [4]
+			"Burly Rockjaw Trogg", -- [5]
+		}, -- [47]
+		{
+			237760.15, -- [1]
+			237767.149, -- [2]
+			"15:39:35", -- [3]
+			"15:39:41", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [48]
+		{
+			237777.148, -- [1]
+			237783.147, -- [2]
+			"15:39:51", -- [3]
+			"15:39:57", -- [4]
+			"Rockjaw Trogg", -- [5]
+		}, -- [49]
+		{
+			238015.147, -- [1]
+			238021.149, -- [2]
+			"15:43:49", -- [3]
+			"15:43:55", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [50]
+		{
+			238755.147, -- [1]
+			238760.148, -- [2]
+			"15:56:10", -- [3]
+			"15:56:14", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [51]
+		{
+			238765.147, -- [1]
+			238770.148, -- [2]
+			"15:56:20", -- [3]
+			"15:56:24", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [52]
+		{
+			239257.149, -- [1]
+			239264.146, -- [2]
+			"16:04:31", -- [3]
+			"16:04:38", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [53]
+		{
+			239293.147, -- [1]
+			239303.15, -- [2]
+			"16:05:08", -- [3]
+			"16:05:17", -- [4]
+			"Burly Rockjaw Trogg", -- [5]
+		}, -- [54]
+		{
+			239308.147, -- [1]
+			239313.146, -- [2]
+			"16:05:22", -- [3]
+			"16:05:27", -- [4]
+			"Rockjaw Trogg", -- [5]
+		}, -- [55]
+		{
+			239320.149, -- [1]
+			239327.147, -- [2]
+			"16:05:34", -- [3]
+			"16:05:41", -- [4]
+			"Rockjaw Trogg", -- [5]
+		}, -- [56]
+		{
+			239332.146, -- [1]
+			239341.148, -- [2]
+			"16:05:47", -- [3]
+			"16:05:55", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [57]
+		{
+			239346.149, -- [1]
+			239356.149, -- [2]
+			"16:06:00", -- [3]
+			"16:06:10", -- [4]
+			"Rockjaw Trogg", -- [5]
+		}, -- [58]
+		{
+			239360.147, -- [1]
+			239366.146, -- [2]
+			"16:06:15", -- [3]
+			"16:06:20", -- [4]
+			"Rockjaw Trogg", -- [5]
+		}, -- [59]
+		{
+			239369.148, -- [1]
+			239379.148, -- [2]
+			"16:06:23", -- [3]
+			"16:06:33", -- [4]
+			"Burly Rockjaw Trogg", -- [5]
+		}, -- [60]
+		{
+			239381.147, -- [1]
+			239390.149, -- [2]
+			"16:06:36", -- [3]
+			"16:06:44", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [61]
+		{
+			239391.147, -- [1]
+			239399.147, -- [2]
+			"16:06:46", -- [3]
+			"16:06:53", -- [4]
+			"Rockjaw Trogg", -- [5]
+		}, -- [62]
+		{
+			239408.147, -- [1]
+			239414.148, -- [2]
+			"16:07:02", -- [3]
+			"16:07:08", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [63]
+		{
+			239630.147, -- [1]
+			239639.148, -- [2]
+			"16:10:45", -- [3]
+			"16:10:53", -- [4]
+			"Rockjaw Trogg", -- [5]
+		}, -- [64]
+		{
+			239643.148, -- [1]
+			239653.148, -- [2]
+			"16:10:57", -- [3]
+			"16:11:07", -- [4]
+			"Burly Rockjaw Trogg", -- [5]
+		}, -- [65]
+		{
+			239667.147, -- [1]
+			239673.151, -- [2]
+			"16:11:22", -- [3]
+			"16:11:27", -- [4]
+			"Rockjaw Trogg", -- [5]
+		}, -- [66]
+		{
+			239719.147, -- [1]
+			239725.15, -- [2]
+			"16:12:14", -- [3]
+			"16:12:19", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [67]
+		{
+			239830.948, -- [1]
+			239834.945, -- [2]
+			"16:14:05", -- [3]
+			"16:14:09", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [68]
+		{
+			239857.948, -- [1]
+			239862.945, -- [2]
+			"16:14:32", -- [3]
+			"16:14:37", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [69]
+		{
+			239871.946, -- [1]
+			239878.946, -- [2]
+			"16:14:47", -- [3]
+			"16:14:53", -- [4]
+			"Burly Rockjaw Trogg", -- [5]
+		}, -- [70]
+		{
+			239924.947, -- [1]
+			239929.946, -- [2]
+			"16:15:39", -- [3]
+			"16:15:44", -- [4]
+			"Burly Rockjaw Trogg", -- [5]
+		}, -- [71]
+		{
+			239943.945, -- [1]
+			239948.948, -- [2]
+			"16:15:59", -- [3]
+			"16:16:03", -- [4]
+			"Rockjaw Trogg", -- [5]
+		}, -- [72]
+		{
+			240017.945, -- [1]
+			240022.945, -- [2]
+			"16:17:12", -- [3]
+			"16:17:17", -- [4]
+			"Burly Rockjaw Trogg", -- [5]
+		}, -- [73]
+		{
+			240051.945, -- [1]
+			240059.947, -- [2]
+			"16:17:46", -- [3]
+			"16:17:54", -- [4]
+			"Ragged Timber Wolf", -- [5]
+		}, -- [74]
+		{
+			240063.947, -- [1]
+			240070.944, -- [2]
+			"16:17:59", -- [3]
+			"16:18:05", -- [4]
+			"Frostmane Troll Whelp", -- [5]
+		}, -- [75]
+		{
+			240073.946, -- [1]
+			240089.944, -- [2]
+			"16:18:08", -- [3]
+			"16:18:24", -- [4]
+			"Frostmane Troll Whelp", -- [5]
+		}, -- [76]
+		{
+			240110.947, -- [1]
+			240115.946, -- [2]
+			"16:18:45", -- [3]
+			"16:18:50", -- [4]
+			"Ragged Timber Wolf", -- [5]
+		}, -- [77]
+		{
+			240125.948, -- [1]
+			240129.946, -- [2]
+			"16:19:00", -- [3]
+			"16:19:04", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [78]
+		{
+			240167.948, -- [1]
+			240174.951, -- [2]
+			"16:19:42", -- [3]
+			"16:19:49", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [79]
+		{
+			240524.944, -- [1]
+			240533.947, -- [2]
+			"16:25:39", -- [3]
+			"16:25:48", -- [4]
+			"Ragged Timber Wolf", -- [5]
+		}, -- [80]
+		{
+			240808.946, -- [1]
+			240813.945, -- [2]
+			"16:30:24", -- [3]
+			"16:30:28", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [81]
+		{
+			242837.459, -- [1]
+			242850.461, -- [2]
+			"17:04:12", -- [3]
+			"17:04:25", -- [4]
+			"Small Crag Boar", -- [5]
+		}, -- [82]
+		{
+			242853.461, -- [1]
+			242863.46, -- [2]
+			"17:04:28", -- [3]
+			"17:04:38", -- [4]
+			"Burly Rockjaw Trogg", -- [5]
+		}, -- [83]
+		{
+			242869.46, -- [1]
+			242876.46, -- [2]
+			"17:04:44", -- [3]
+			"17:04:51", -- [4]
+			"Burly Rockjaw Trogg", -- [5]
+		}, -- [84]
+		{
+			242897.458, -- [1]
+			242902.459, -- [2]
+			"17:05:12", -- [3]
+			"17:05:17", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [85]
+		{
+			242907.458, -- [1]
+			242915.46, -- [2]
+			"17:05:22", -- [3]
+			"17:05:30", -- [4]
+			"Ragged Timber Wolf", -- [5]
+		}, -- [86]
+		{
+			242932.458, -- [1]
+			242941.459, -- [2]
+			"17:05:47", -- [3]
+			"17:05:56", -- [4]
+			"Burly Rockjaw Trogg", -- [5]
+		}, -- [87]
+		{
+			242960.46, -- [1]
+			242970.458, -- [2]
+			"17:06:15", -- [3]
+			"17:06:25", -- [4]
+			"Burly Rockjaw Trogg", -- [5]
+		}, -- [88]
+		{
+			242983.461, -- [1]
+			242986.465, -- [2]
+			"17:06:38", -- [3]
+			"17:06:41", -- [4]
+			"Rabbit", -- [5]
+		}, -- [89]
+		{
+			243108.46, -- [1]
+			243117.461, -- [2]
+			"17:08:43", -- [3]
+			"17:08:52", -- [4]
+			"Rockjaw Trogg", -- [5]
+		}, -- [90]
+		{
+			243310.465, -- [1]
+			243322.458, -- [2]
+			"17:12:05", -- [3]
+			"17:12:17", -- [4]
+			"Rockjaw Trogg", -- [5]
+		}, -- [91]
+		{
+			243453.458, -- [1]
+			243462.46, -- [2]
+			"17:14:28", -- [3]
+			"17:14:37", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [92]
+		{
+			243464.458, -- [1]
+			243475.46, -- [2]
+			"17:14:39", -- [3]
+			"17:14:50", -- [4]
+			"Burly Rockjaw Trogg", -- [5]
+		}, -- [93]
+		{
+			243759.459, -- [1]
+			243768.46, -- [2]
+			"17:19:34", -- [3]
+			"17:19:43", -- [4]
+			"Rockjaw Trogg", -- [5]
+		}, -- [94]
+		{
+			243779.461, -- [1]
+			243789.46, -- [2]
+			"17:19:54", -- [3]
+			"17:20:04", -- [4]
+			"Burly Rockjaw Trogg", -- [5]
+		}, -- [95]
+		{
+			243796.461, -- [1]
+			243806.458, -- [2]
+			"17:20:11", -- [3]
+			"17:20:21", -- [4]
+			"Burly Rockjaw Trogg", -- [5]
+		}, -- [96]
+		{
+			243810.459, -- [1]
+			243816.459, -- [2]
+			"17:20:25", -- [3]
+			"17:20:31", -- [4]
+			"Rockjaw Trogg", -- [5]
+		}, -- [97]
+		{
+			243823.461, -- [1]
+			243831.459, -- [2]
+			"17:20:38", -- [3]
+			"17:20:46", -- [4]
+			"Burly Rockjaw Trogg", -- [5]
+		}, -- [98]
+		{
+			243833.461, -- [1]
+			243840.459, -- [2]
+			"17:20:48", -- [3]
+			"17:20:55", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [99]
+		{
+			243850.46, -- [1]
+			243857.459, -- [2]
+			"17:21:05", -- [3]
+			"17:21:12", -- [4]
+			"Rockjaw Trogg", -- [5]
+		}, -- [100]
+		{
+			243861.46, -- [1]
+			243866.461, -- [2]
+			"17:21:16", -- [3]
+			"17:21:21", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [101]
+		{
+			243868.458, -- [1]
+			243871.461, -- [2]
+			"17:21:23", -- [3]
+			"17:21:26", -- [4]
+			"Rockjaw Trogg", -- [5]
+		}, -- [102]
+		{
+			243874.459, -- [1]
+			243884.459, -- [2]
+			"17:21:29", -- [3]
+			"17:21:39", -- [4]
+			"Burly Rockjaw Trogg", -- [5]
+		}, -- [103]
+		{
+			244202.461, -- [1]
+			244207.46, -- [2]
+			"17:26:57", -- [3]
+			"17:27:02", -- [4]
+			"Rockjaw Trogg", -- [5]
+		}, -- [104]
+		{
+			244208.46, -- [1]
+			244217.46, -- [2]
+			"17:27:03", -- [3]
+			"17:27:12", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [105]
+		{
+			244497.546, -- [1]
+			244501.544, -- [2]
+			"17:31:52", -- [3]
+			"17:31:56", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [106]
+		{
+			244938.546, -- [1]
+			244941.547, -- [2]
+			"17:39:13", -- [3]
+			"17:39:16", -- [4]
+			"Rabbit", -- [5]
+		}, -- [107]
+		{
+			245003.549, -- [1]
+			245012.546, -- [2]
+			"17:40:18", -- [3]
+			"17:40:27", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [108]
+		{
+			245515.547, -- [1]
+			245524.545, -- [2]
+			"17:48:50", -- [3]
+			"17:48:59", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [109]
+		{
+			245526.547, -- [1]
+			245531.544, -- [2]
+			"17:49:01", -- [3]
+			"17:49:06", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [110]
+		{
+			245588.548, -- [1]
+			245592.546, -- [2]
+			"17:50:03", -- [3]
+			"17:50:07", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [111]
+		{
+			246101.544, -- [1]
+			246110.546, -- [2]
+			"17:58:36", -- [3]
+			"17:58:45", -- [4]
+			"Small Crag Boar", -- [5]
+		}, -- [112]
+		{
+			246110.546, -- [1]
+			246117.545, -- [2]
+			"17:58:46", -- [3]
+			"17:58:52", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [113]
+		{
+			246124.546, -- [1]
+			246132.552, -- [2]
+			"17:58:59", -- [3]
+			"17:59:07", -- [4]
+			"Burly Rockjaw Trogg", -- [5]
+		}, -- [114]
+		{
+			246136.545, -- [1]
+			246140.546, -- [2]
+			"17:59:11", -- [3]
+			"17:59:15", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [115]
+		{
+			246278.55, -- [1]
+			246284.546, -- [2]
+			"18:01:33", -- [3]
+			"18:01:39", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [116]
+		{
+			246284.546, -- [1]
+			246292.545, -- [2]
+			"18:01:39", -- [3]
+			"18:01:47", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [117]
+		{
+			246304.545, -- [1]
+			246308.546, -- [2]
+			"18:01:59", -- [3]
+			"18:02:03", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [118]
+		{
+			246337.546, -- [1]
+			246343.545, -- [2]
+			"18:02:32", -- [3]
+			"18:02:38", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [119]
+		{
+			246361.547, -- [1]
+			246366.548, -- [2]
+			"18:02:56", -- [3]
+			"18:03:01", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [120]
+		{
+			246374.546, -- [1]
+			246381.545, -- [2]
+			"18:03:09", -- [3]
+			"18:03:16", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [121]
+		{
+			246424.545, -- [1]
+			246428.548, -- [2]
+			"18:03:59", -- [3]
+			"18:04:03", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [122]
+		{
+			246525.547, -- [1]
+			246535.547, -- [2]
+			"18:05:40", -- [3]
+			"18:05:50", -- [4]
+			"Small Crag Boar", -- [5]
+		}, -- [123]
+		{
+			246543.544, -- [1]
+			246551.548, -- [2]
+			"18:05:58", -- [3]
+			"18:06:06", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [124]
+		{
+			246577.548, -- [1]
+			246582.548, -- [2]
+			"18:06:32", -- [3]
+			"18:06:37", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [125]
+		{
+			246589.545, -- [1]
+			246596.544, -- [2]
+			"18:06:44", -- [3]
+			"18:06:51", -- [4]
+			"Burly Rockjaw Trogg", -- [5]
+		}, -- [126]
+		{
+			246719.545, -- [1]
+			246723.545, -- [2]
+			"18:08:55", -- [3]
+			"18:08:58", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [127]
+		{
+			247092.967, -- [1]
+			247097.97, -- [2]
+			"18:15:07", -- [3]
+			"18:15:12", -- [4]
+			"Burly Rockjaw Trogg", -- [5]
+		}, -- [128]
+		{
+			247099.969, -- [1]
+			247114.97, -- [2]
+			"18:15:14", -- [3]
+			"18:15:29", -- [4]
+			"Rockjaw Trogg", -- [5]
+		}, -- [129]
+		{
+			247126.969, -- [1]
+			247131.968, -- [2]
+			"18:15:42", -- [3]
+			"18:15:46", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [130]
+		{
+			247848.966, -- [1]
+			247851.969, -- [2]
+			"18:27:44", -- [3]
+			"18:27:46", -- [4]
+			"Rabbit", -- [5]
+		}, -- [131]
+		{
+			247859.967, -- [1]
+			247867.97, -- [2]
+			"18:27:55", -- [3]
+			"18:28:02", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [132]
+		{
+			247871.966, -- [1]
+			247876.969, -- [2]
+			"18:28:06", -- [3]
+			"18:28:11", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [133]
+		{
+			248034.967, -- [1]
+			248039.968, -- [2]
+			"18:30:50", -- [3]
+			"18:30:54", -- [4]
+			"Rockjaw Trogg", -- [5]
+		}, -- [134]
+		{
+			248043.968, -- [1]
+			248047.968, -- [2]
+			"18:30:59", -- [3]
+			"18:31:02", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [135]
+		{
+			248056.97, -- [1]
+			248065.969, -- [2]
+			"18:31:11", -- [3]
+			"18:31:20", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [136]
+		{
+			248121.966, -- [1]
+			248125.969, -- [2]
+			"18:32:16", -- [3]
+			"18:32:20", -- [4]
+			"Rockjaw Trogg", -- [5]
+		}, -- [137]
+		{
+			248131.966, -- [1]
+			248135.968, -- [2]
+			"18:32:26", -- [3]
+			"18:32:30", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [138]
+		{
+			248139.967, -- [1]
+			248148.967, -- [2]
+			"18:32:35", -- [3]
+			"18:32:43", -- [4]
+			"Burly Rockjaw Trogg", -- [5]
+		}, -- [139]
+		{
+			248160.968, -- [1]
+			248176.966, -- [2]
+			"18:32:55", -- [3]
+			"18:33:11", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [140]
+		{
+			248430.857, -- [1]
+			248440.855, -- [2]
+			"18:37:25", -- [3]
+			"18:37:35", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [141]
+		{
+			248457.858, -- [1]
+			248467.857, -- [2]
+			"18:37:53", -- [3]
+			"18:38:02", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [142]
+		{
+			248508.326, -- [1]
+			248513.325, -- [2]
+			"18:38:43", -- [3]
+			"18:38:47", -- [4]
+			"Ragged Young Wolf", -- [5]
+		}, -- [143]
+		{
+			248517.325, -- [1]
+			248529.329, -- [2]
+			"18:38:52", -- [3]
+			"18:39:03", -- [4]
+			"Burly Rockjaw Trogg", -- [5]
+		}, -- [144]
+	},
+	["FoughtWho"] = {
+		"Burly Rockjaw Trogg 18:38:52-18:39:03", -- [1]
+		"Ragged Young Wolf 18:38:43-18:38:47", -- [2]
+		"Ragged Young Wolf 18:37:53-18:38:02", -- [3]
+		"Ragged Young Wolf 18:37:25-18:37:35", -- [4]
+		"Ragged Young Wolf 18:32:55-18:33:11", -- [5]
+	},
+}

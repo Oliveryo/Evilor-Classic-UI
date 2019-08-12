@@ -1,0 +1,13 @@
+
+ClassicLFG_DB = {
+	["profileKeys"] = {
+		["Evilor - Thandol Span"] = "Evilor - Thandol Span",
+	},
+	["profiles"] = {
+		["Evilor - Thandol Span"] = {
+			["minimap"] = {
+				["minimapPos"] = 17.2065469215998,
+			},
+		},
+	},
+}

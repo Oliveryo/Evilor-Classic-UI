@@ -1,0 +1,12 @@
+package-as: RCLootCouncil
+
+manual-changelog:
+    filename: changelog.md
+    markup-type: markdown
+
+ignore:
+    - README.md
+    - LICENSE.md
+    - __tests
+
+enable-nolib-creation: no

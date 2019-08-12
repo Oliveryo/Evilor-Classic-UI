@@ -1,0 +1,10 @@
+/AtlasLootClassic/Core/MapPOI.lua
+/.vscode
+/AtlasLootClassic/Libs/*
+/AtlasLootClassic_Options/Libs/*
+Global.lua
+Collections.lua
+Crafting.lua
+DungeonsAndRaids.lua
+PvP.lua
+Options.lua

@@ -1,0 +1,30 @@
+
+GuidelimeDataChar = {
+	["mainFrameHeight"] = 400,
+	["hideCompletedSteps"] = true,
+	["arrowAlpha"] = 0.8,
+	["arrowRelative"] = "TOPRIGHT",
+	["mainFrameX"] = -2.00004553794861,
+	["mainFrameLocked"] = true,
+	["mainFrameWidth"] = 350,
+	["editorFrameY"] = 0,
+	["mainFrameAlpha"] = 0,
+	["currentGuide"] = {
+		["name"] = "Sage Guide 1-10 Dun Morogh",
+		["skip"] = {
+			[38] = true,
+			[49] = true,
+		},
+	},
+	["arrowY"] = -82.0009460449219,
+	["arrowX"] = -217.001174926758,
+	["hideUnavailableSteps"] = true,
+	["autoCompleteQuest"] = true,
+	["editorFrameRelative"] = "CENTER",
+	["version"] = "0.027-Beta",
+	["showArrow"] = true,
+	["mainFrameShowing"] = true,
+	["editorFrameX"] = 0,
+	["mainFrameRelative"] = "TOPLEFT",
+	["mainFrameY"] = -0.000131303720991127,
+}
